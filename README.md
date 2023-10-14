@@ -1,11 +1,9 @@
-# WhaTicket Saas Maanabee</br>
-Funcionando com Baileys 6.4.0 - Julho de 2023 </br>
+# PWA Saas</br>
+Funcionando com Baileys 6.4.0 - Agosto de 2023 </br>
 
 
-************ LINKS DA COMUNIDADE MAANABEE ************************</br>
+************ LINKS DA COMUNIDADE PWA ************************</br>
  TELEGRAM</br>
-Jobs 🇧🇷 | Maanabee 🐝 = https://t.me/JobsMaanabee</br>
-Comunidade Maanabee = https://t.me/+Af9heWBPVYkzNmFh</br>
 </br>
  WHATSAPP</br>
  *********---***********-------</br>
